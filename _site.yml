@@ -1,0 +1,11 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home" #the hyphen is required 
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Newsletter"
+      href: dyasanti.html
